@@ -1,3 +1,3 @@
 # three-js-experiment
 
-A beautiful flying pink donut in a sky full of stars
+The start of a portfolio to be built with Three.JS
